@@ -67,6 +67,9 @@ namespace JSONProject
             
                 //Serialization with Newtonsoft
                 string jsonNewton = JsonConvert.SerializeObject(_book.ToArray());
+                //throws error if you dont remove the [] the array has around it so these remove them:
+                jsonNewton = jsonNewton.Remove(0, 1);
+                jsonNewton = jsonNewton.Remove(jsonNewton.Length - 1, 1);
                 System.IO.File.WriteAllText(dataPath + '/' + customFileName +".json", jsonNewton);
 
 
