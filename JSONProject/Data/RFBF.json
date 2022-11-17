@@ -1,0 +1,112 @@
+{
+  "kind": "books#volume",
+  "id": "067xAwAAQBAJ",
+  "etag": "kKqfUN8xty0",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/067xAwAAQBAJ",
+  "volumeInfo": {
+    "title": "One Fish Two Fish Red Fish Blue Fish",
+    "authors": [
+      "Dr. Seuss"
+    ],
+    "publisher": "RH Childrens Books",
+    "publishedDate": "2013-09-24",
+    "description": "\u003cp\u003e\u003cb\u003eCount and explore the zany world and words of Seuss in this classic picture book.\u003c/b\u003e \u003cbr\u003e  \u003cbr\u003e From counting to opposites to Dr. Seuss's signature silly rhymes, this book has everything a beginning reader needs! Meet the bumpy Wump and the singing Ying, and even the winking Yink who drinks pink ink. The silly rhymes and colorful cast of characters will have every child giggling from morning to night.\u003cbr\u003e  \u003cbr\u003e \u003ci\u003eFrom near to far\u003c/i\u003e\u003cbr\u003e \u003ci\u003efrom here to there,\u003c/i\u003e\u003cbr\u003e \u003ci\u003efunny things are everywhere.\u003c/i\u003e\u003cbr\u003e  \u003cbr\u003e Originally created by Dr. Seuss himself, Beginner Books are fun, funny, and easy to read. These unjacketed hardcover early readers encourage children to read all on their own, using simple words and illustrations. Smaller than the classic large format Seuss picture books like \u003ci\u003eThe Lorax\u003c/i\u003e and \u003ci\u003eOh, the Places You’ll Go!,\u003c/i\u003e these portable packages are perfect for practicing readers ages 3-7, and lucky parents too!\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0385372000"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780385372008"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 72,
+    "printedPageCount": 36,
+    "printType": "BOOK",
+    "categories": [
+      "Juvenile Fiction / Concepts / Counting & Numbers",
+      "Juvenile Fiction / Classics",
+      "Juvenile Fiction / Humorous Stories"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 95,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=067xAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73N7AUw2mX1xmzTgSdWtc6tfwMN3YHRv0Yw4I7FsidY04OtipABzSX4bvKWmn5PhDIIQBajKibqReZlMgfEJHRuVbJKcmaKvLD03zJXvm0UsF97_HrRnBU53TzwNQM_XilwREd0&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=067xAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72COR3Tqlgg0EEqan7wNelhb8M9GNAKp9yC-HsmKQojYzGrSu4bzcQM26wqPFW7iSC00ZThaTDEgGo7O0x1XE_MDRf0ztqjh3E4k78Vmeb-I6Sj65d39zcDkUXamkZf17nxhw9n&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=067xAwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72k7zjtNlfng7VYtbaVmzUWuu2mub_k4t5p0V5uL6ef2UCdHmd0mSg8C_Iz3i9zpOMGexGHMf2r5RYYj6GC8cqlfWTHR8isb8CCY2QALZxEDKHUis2HspYW6SGOyIz9ZAc65uVn&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=067xAwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72H3WsTYg1KvftDDXHsovB5iDHlQINg_DamUn3QC7G5QcmXGGuogITSzItxHtWUv-LpbjtkvgWfyJ_Z0oQxn0BEFMTK9F_aZH7VZ_Q5BuJO0MO6f_Q9Q5nYO-3TtOyD8uyNhBNy&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=067xAwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73GtxqyGlHTTqQRB9C8SnAHph3fgV72igNq38C6FbQP6jOAqnls6aH-YkCGzzD4sEKNLKRu2KYFzma7H-M-TpKHc3qg9Zc311Ss5qhfP2XNfNaf8xLU9gEkEwMdzoUn1k_Uz7li&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=067xAwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70wZtOI-zRjnlb90kbHLZMiuJqIwLM5d5L9WbfTwMaDpWMry5TKpiTwWlLxcWcuYfQVdZeeNIdkemCU2sQIOgAQNypzmednCK6r9STb67wOuN7ggow_WrXxVn09KbWWzcVOPtM-&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=067xAwAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=067xAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=067xAwAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "3"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 7.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 7.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=067xAwAAQBAJ&rdid=book-067xAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 7990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 7990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/One_Fish_Two_Fish_Red_Fish_Blue_Fish-sample-epub.acsm?id=067xAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/One_Fish_Two_Fish_Red_Fish_Blue_Fish-sample-pdf.acsm?id=067xAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=067xAwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

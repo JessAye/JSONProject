@@ -1,0 +1,78 @@
+{
+  "kind": "books#volume",
+  "id": "6qOPEAAAQBAJ",
+  "etag": "h62yt9Hlme8",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/6qOPEAAAQBAJ",
+  "volumeInfo": {
+    "title": "Halo: Fall of Reach",
+    "authors": [
+      "Brian Reed"
+    ],
+    "publisher": "Dark Horse Comics",
+    "publishedDate": "2016-03-29",
+    "description": "In the year 2517, humanity's last hope is with Dr. Catherine Halsey, the SPARTAN-II program, and one 6-year-old boy: John-117. Kidnapped and ruthlessly trained, John endures and rises as the leader of the Spartans: he becomes the Master Chief! These legendary heroes are entrusted with stopping the Covenant at all costs...but will their harrowing biological augmentation and unparalleled Mjolnir armor be enough to rise to victory?\u003cbr\u003e\u003cbr\u003e \u003ci\u003eHalo: Fall of Reach\u003c/i\u003e is based on the \u003ci\u003eNew York Times \u003c/i\u003eBest-Selling novel of the same name by Eric Nylund!\"",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1506700772"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781506700779"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 296,
+    "printedPageCount": 296,
+    "dimensions": {
+      "height": "25.90 cm",
+      "width": "16.90 cm",
+      "thickness": "1.50 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels / Media Tie-In",
+      "Comics & Graphic Novels / Science Fiction",
+      "Games & Activities / Video & Mobile"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=6qOPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE73is2cvQHOzSxznPgeXoilT6ix0wWk5Me5ZgbTMqfrE62norS5E_m2LbgTqhaU9YQ_wAPxKVWCHVJwFsaN_n1UDxGqoULWmJ2EgoZUsCVQSt5UujKSL4d8-VYFDhYiLMbsqT9er&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=6qOPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72jpXm3tv8hTjKFBuZ8toYWd8BzhIefFShWEDVMaOJDWo5qJcM3y8fM7x1chD_LDoc1HFArczbMZZ7UaQceWBzkiXd6--oJNWrugBDrVIw9lVqV4DJsui0U3d_RF8y4tjhyhhC0&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6qOPEAAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6qOPEAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6qOPEAAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6qOPEAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

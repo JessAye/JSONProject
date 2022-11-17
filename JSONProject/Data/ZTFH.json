@@ -1,0 +1,69 @@
+{
+  "kind": "books#volume",
+  "id": "BUYujgEACAAJ",
+  "etag": "92hrIeIkINk",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/BUYujgEACAAJ",
+  "volumeInfo": {
+    "title": "The Legend of Zelda: Tri Force Heroes Collector's Edition Guide",
+    "authors": [
+      "Prima Games"
+    ],
+    "publisher": "DK Games",
+    "publishedDate": "2015",
+    "description": "\u003cp\u003e\u003ci\u003eThe Legend of Zelda: Triforce Heroes Collector's Edition Guide\u003c/i\u003e includes...\u003c/p\u003e \u003cp\u003e\u003cb\u003eScreen Cleaner\u003c/b\u003e - Includes a high-quality, microfiber screen cleaner featuring art from the game.\u003cbr\u003e \u003cbr\u003e \u003cb\u003eDetailed Walkthrough\u003c/b\u003e - Reference maps and step-by-step instructions guide you through each of the challenging stages you face.\u003cbr\u003e \u003cbr\u003e \u003cb\u003eSolve the Puzzles\u003c/b\u003e - Never get stuck--our strategies show you how to solve every puzzle.\u003cbr\u003e \u003cbr\u003e \u003cb\u003eBoss Strategies\u003c/b\u003e - Proven battle tactics reveal how to defeat each boss and enemy you encounter on your journey.\u003cbr\u003e \u003cbr\u003e \u003cb\u003eCollect It All\u003c/b\u003e - Find out how to collect each piece of loot required to create fabulous outfits that you can wear.\u003cbr\u003e \u003cbr\u003e \u003cb\u003eFREE Mobile-Friendly eGuide\u003c/b\u003e - Use the enhanced eGuide for strategy on the go, all optimized for a second-screen experience!\u003c/p\u003e \u003cp\u003e \u003c/p\u003e \u003cp\u003e\u003ci\u003eThese limited edition guides will only be printed once. When they are sold out, they will be gone forever!\u003c/i\u003e\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "074401669X"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780744016697"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 256,
+    "printedPageCount": 256,
+    "dimensions": {
+      "height": "28.40 cm",
+      "width": "21.30 cm",
+      "thickness": "1.80 cm"
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=BUYujgEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE73BnDox6f2uB9AN1I2dQqrzwqlzpHJeImXs1HJJMlVEiheMmPEUcpJoXhBtR7mm8IVTFNAqHOFTKHqR8sN76wLYviv7etKb_fXAMeV-YwL_LiFik3pgYGk-8FNVpahHmEiRyBfs&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=BUYujgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73hyMj5moTvmB5TWk9E_k4N_UBuWQJRpTu5sD9CGe7vN_S9sOGh2g_qTSBbANpEABRkBVu7KxL16b73sCnYKjuImqBoWv1BzUBYyGQGA-RbUSZCZn-bhcGnFGEK7fMbixaJlJIh&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BUYujgEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BUYujgEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BUYujgEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BUYujgEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

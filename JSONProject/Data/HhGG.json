@@ -1,0 +1,83 @@
+{
+  "kind": "books#volume",
+  "id": "vnVWMpWYIc0C",
+  "etag": "FacjIBwF/qY",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/vnVWMpWYIc0C",
+  "volumeInfo": {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "authors": [
+      "Douglas Adams"
+    ],
+    "publisher": "Pocket Books",
+    "publishedDate": "1981",
+    "description": "Chronicles the off-beat and occasionally extraterrestrial journeys, notions, and acquaintances of galactic traveler Arthur Dent",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0671746065"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780671746063"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 215,
+    "printedPageCount": 228,
+    "dimensions": {
+      "height": "18.00 cm",
+      "width": "10.80 cm",
+      "thickness": "1.90 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Classics",
+      "Fiction / Science Fiction / General"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 3408,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=vnVWMpWYIc0C&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE72y98FIfT3p4thSZ7wCSC3yRkuk6t5I8EsoGn1QTovUcyhwJIY4psJYF8LujWbJUakj9VtlopKbN_DcKdI4xuOgcgxKFZoAmjiNAR1JaGr_ngS51sKQXqMPTFHyu5DkVBUB4d7q&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=vnVWMpWYIc0C&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72p8q43OJncVHCmZVilh9UVtNm2Kxz8zlZxxZzGVM8zc_wFD1KeZELenL9Jj-wr_dwE04fPVfHEPBQibwoIPy-lBMywC-oIzOjX72uOWbfZB2C-iX74GITd1eR68FbECsViMqml&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=vnVWMpWYIc0C&printsec=frontcover&img=1&zoom=2&imgtk=AFLRE72a6kpabSUnVZ9Z4ZP9UUvlqoHOJ18Pxctp1CD3Dtv5mNDNkuRd_IP44CwPvDHfWTooecSqd3LWuIAp0TxOaUw8vKFP9YaEqJ8G2sDXnUxVybq8wPQ83aIdMzRs1O0nBH9SJp7c&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=vnVWMpWYIc0C&printsec=frontcover&img=1&zoom=3&imgtk=AFLRE70k6elaxebSAmjzNNSOwQs-oHb3SKNjU2_2ZK8gA00Pzo6cxWaeJQsbMs-5_TJsIA-VjmuOVfyP8nOCP1frpmik8jNRPRyV7C5dLQym4tExn2AOI8tLGGm8R4b2EU0TJ4Qkifai&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=vnVWMpWYIc0C&printsec=frontcover&img=1&zoom=4&imgtk=AFLRE72htP-_MZdt54ZfIj7bedzM0AoP16TxnswrrpaQqL1Zj2ipNdUa3PENc5ZmkvGYYkVwYCwjzrYNZg29EU_eB8ZEMHgRgtfi9qS0ycNcGrUP3Nz5zt_WiQGXsVi8sqx9xp5sy7tV&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=vnVWMpWYIc0C&printsec=frontcover&img=1&zoom=6&imgtk=AFLRE71JEH_oiqHKMpXcvJNwVP5KgtXkTp3u_DLa2BtvnEYDzJq-Y6hFAsuPKds_BXCAxINz8Q7QIzSGaCYJgiNiEHMbjPLIytMttL7U-NLgO9izA8B-JRRnEO6QYZ4W51cVwr6gSH0q&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vnVWMpWYIc0C&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vnVWMpWYIc0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vnVWMpWYIc0C"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vnVWMpWYIc0C&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

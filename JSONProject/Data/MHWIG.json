@@ -1,0 +1,69 @@
+{
+  "kind": "books#volume",
+  "id": "Oy8OygEACAAJ",
+  "etag": "DO1r5no5LdY",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/Oy8OygEACAAJ",
+  "volumeInfo": {
+    "title": "Monster Hunter World: Iceborne - Unofficial Game Guide, Tips, Tricks and Hints",
+    "authors": [
+      "Anton Loire"
+    ],
+    "publisher": "Independently Published",
+    "publishedDate": "2019-09-10",
+    "description": "Before buying, please note that this is not an official Monster Hunter World: Iceborne Game Guide. This is a collection of Tips, Tricks and Hints that we found in the game.Monster Hunter World: Iceborn is the expected and massive expansion for Monster Hunter: World. His events develop immediately after the events of the original game, and send hunters to explore the newly discovered northern lands, covered with snow and ice. When players fully explore this region, they will notice that it is the largest of all areas of the World at the moment. This new area is also home to several previously unseen creatures, as well as a number of already familiar monsters from past games who, with inherent bloodthirstiness, will try to feast on hunters. Iceborn will increase difficulty and a Master's rank will appear. The skill and craft systems familiar to World veterans will remain in their places, and in addition to them, new game mechanics will appear that will expand the combat potential of hunters. Finally, the most daring hunters are waiting for a meeting and an intense battle with the main monster of the new lands - Velhana.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1692178482"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781692178482"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 101,
+    "printedPageCount": 101,
+    "dimensions": {
+      "height": "22.90 cm",
+      "width": "15.20 cm",
+      "thickness": "0.60 cm"
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Oy8OygEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Oy8OygEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Oy8OygEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Oy8OygEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}
